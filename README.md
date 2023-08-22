@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @payal-gitport
 # Hi there, I'm [Payal Meena](https://www.linkedin.com/in/payal-meena-53b164132/) 👋
 
 I'm a highly motivated Mobile Developer with over 2 years of experience in React Native and Flutter. I'm passionate about developing innovative and scalable mobile applications that exceed customer expectations. I'm committed to continuous learning and growth in a dynamic work environment.
@@ -21,6 +20,7 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
    - Utilized Firebase Authentication and Firebase Store for secure user authentication and data storage.
    - Implemented Redux for efficient app state management.
    - Leveraged animations using Lottie-React-Native and enhanced visual appeal with image sliders and date pickers.
+   - Implimented Expo-Location to facilitate the seamless sharing of the user’s current location.
 
 2. [Noteapp](https://github.com/payal-gitport/noteapp)
    - A web application for saving notes using ReactJS and Firebase.
@@ -46,14 +46,14 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
 
 💬 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/payal-meena-53b164132/)
-- Email: your.email@example.com
+- Email: payalmeena032@gmail.com
 
 🌱 **Passionate about:**
 - Collaborating with like-minded individuals
 - Exceeding customer expectations
 - Continuous learning and personal growth
 
-Feel free to reach out to me for collaboration or if you want to discuss mobile app development and technology in general. 📫
+📫 Feel free to reach out to me for collaboration or if you want to discuss mobile app development and technology in general.
 
 <!---
 payal-gitport/payal-gitport is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
