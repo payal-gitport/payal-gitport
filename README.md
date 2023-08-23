@@ -35,7 +35,10 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
    - Firebase was used to store user credentials and related data.
 
 5. [Rock Paper Scissor](https://github.com/payal-gitport/Rock-Paper-Scissor-Game)
-   - An interactive app to play Rock Paper Scissors, complete with play and result screens.
+   - Implemented the core game logic for Rock Paper Scissors choices and outcomes.
+   - Designed an intuitive user interface that allows players to make selections and displays game results.
+   - Utilized Flutter's features to ensure cross-platform compatibility and responsiveness.
+   - Showcased strong problem-solving skills by addressing challenges in user interactions and game flow.
 
 🔧 **Technical Skills:**
 - Languages: C++, JavaScript, Dart, Java, CSS, Swift
