@@ -22,6 +22,12 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
    - Leveraged animations using Lottie-React-Native and enhanced visual appeal with image sliders and date pickers.
    - Implimented Expo-Location to facilitate the seamless sharing of the user’s current location.
 
+2. [Apple Music List React Native App](https://github.com/payal-gitport/FastImage.git)
+   - React Native project that fetches the Apple Music list and creates a responsive UI, all without using FlatList and incorporating image caching methods
+   - The Apple Music album list is fetched from the API: [Apple Music API](https://rss.applemarketingtools.com/api/v2/us/music/most-played/100/albums.json).
+   - The user interface is designed with responsiveness in mind, ensuring a seamless experience on various screen sizes.
+   - Image loading performance is optimized through the use of libraries like `react-native-fast-image` for efficient image caching.
+
 2. [Noteapp](https://github.com/payal-gitport/noteapp)
    - A web application for saving notes using ReactJS and Firebase.
    - Utilized Firebase Authentication and Firebase Store for user and note data storage.
