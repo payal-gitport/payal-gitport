@@ -30,15 +30,22 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
 
 2. [Noteapp](https://github.com/payal-gitport/noteapp)
    - A web application for saving notes using ReactJS and Firebase.
-   - Utilized Firebase Authentication and Firebase Store for user and note data storage.
+   - Utilizes Firebase Authentication to securely authenticate users.
+   - Users can create, edit, and delete notes.
+   - Utilizes Firebase Firestore to store and manage note data.
+   - The app is designed to work seamlessly across various screen sizes.
    
 3. [Profile](https://github.com/payal-gitport/Flutter-Profile)
-   - A profile screen for updating and showing user details.
-   - Utilized Firebase for storing user-related data, including registration and login functionalities.
+   - Users can seamlessly update and view their personal details.
+   - Firebase is leveraged for user authentication and data storage.
+   - Users can easily create accounts and log in securely.
 
 4. [Coffee-crew](https://github.com/payal-gitport/Flutter_CoffeeCrew)
-   - An interactive app for sharing coffee details using Flutter.
-   - Firebase was used to store user credentials and related data.
+   - User authentication using Firebase
+   - User profiles and coffee preference storage
+   - Updating coffee preference (sugar and strength)
+   - Real-time synchronization of data across devices
+   - User-friendly interface for a seamless coffee-sharing experience
 
 5. [Rock Paper Scissor](https://github.com/payal-gitport/Rock-Paper-Scissor-Game)
    - Implemented the core game logic for Rock Paper Scissors choices and outcomes.
