@@ -14,11 +14,11 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
   - Managed and maintained the Flutter codebase for the Kloudlearn App, handling redesigns and updates.
   - Collaborated with cross-functional teams to create and test new features, ensuring seamless integration and updates.
 
-- **Front-End Developer Intern at Kloudlearn**, Nov 2020 - Jun 2021
+- **Front-End Developer Intern** at [Kloudlearn](https://www.kloudlearn.com/) _(Nov 2020 - Jun 2021)_
   - Engaged in Flutter and React development, focusing on Material UI.
   - Collaborated on dynamic solutions for enhancing user experience.
-    
-- **Front-End Web Developer Intern at Futurios**, May 2020 - Jul 2020
+
+- **Front-End Developer Intern** at [Futurios](https://futurios.com/) _(May 2020 - Jul 2020)_
   - Successfully executed a project within the set timeline and budget.
   - Gained experience in React development with Material UI and Ant Design.
 
