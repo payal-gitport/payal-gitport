@@ -3,6 +3,11 @@
 I'm a highly motivated Mobile Developer with over 2 years of experience in React Native and Flutter. I'm passionate about developing innovative and scalable mobile applications that exceed customer expectations. I'm committed to continuous learning and growth in a dynamic work environment.
 
 🔭 **Work Experience:**
+- **Associate Developer** at [Dizayn.io](https://www.dizayn.io/) _(Sep 2023 – Mar 2024)_
+  - Led diverse projects at dizayn.io, excelling in both React Native mobile app and React web development.
+  - Showcased full-stack expertise by building custom backend servers with Express and integrating MongoDB using Mon- goose.
+  - Implemented efficient cloud-based solutions with Firebase and Cloud Firestore, optimizing database operations for data consistency and reliability.
+ 
 - **Associate Developer** at [Kognics](https://www.kognics.com/) _(Sep 2022 – Apr 2023)_
   - Collaborated closely with the design team to optimize usability and create user-friendly interfaces.
   - Developed the Kognics app using React Native for Android and iOS platforms, ensuring a successful launch on Play Store and App Store.
