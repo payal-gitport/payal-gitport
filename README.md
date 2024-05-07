@@ -4,20 +4,29 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
 
 🔭 **Work Experience:**
 - **Associate Developer** at [Dizayn.io](https://www.dizayn.io/) _(Sep 2023 – Mar 2024)_
-  - Led diverse projects at dizayn.io, excelling in both React Native mobile app and React web development.
-  - Showcased full-stack expertise by building custom backend servers with Express and integrating MongoDB using Mon- goose.
-  - Implemented efficient cloud-based solutions with Firebase and Cloud Firestore, optimizing database operations for data consistency and reliability.
+  - Spearheaded development of multiple React Native applications, leveraging Zustand, React Reanimated, and React Spring to enhance user experience and performance.
+  - Integrated Firebase services seamlessly, elevating application features and user interaction, resulting in increased user satisfaction and engagement.
+  - Deployed applications to App Store and Google Play Store, showcasing adaptability and technical competence in meeting platform-specific requirements.
+  - Utilized cutting-edge tools and AI-driven solutions to optimize development processes, enhancing product performance and efficiency.
+  - Engineered robust backend infrastructure with Node.js, MongoDB, and Express.js, ensuring seamless data management and efficient system operations.
+  - Implemented cloud hosting solutions like Amazon EC2 for scalability and reliability, facilitating smooth and uninterrupted service delivery.
  
 - **Associate Developer** at [Kognics](https://www.kognics.com/) _(Sep 2022 – Apr 2023)_
   - Collaborated closely with the design team to optimize usability and create user-friendly interfaces.
   - Developed the Kognics app using React Native for Android and iOS platforms, ensuring a successful launch on Play Store and App Store.
   - Integrated new features into the app, enhancing functionality based on user requirements.
   - Led troubleshooting efforts and provided support to the web-app development team.
+  - Orchestrated the development of the Kognics mobile application utilizing React Native, resulting in a seamless user experience across Android and iOS platforms.
+  - Facilitated a successful launch of the app on both the Play Store and App Store, employing strategic methodologies and leveraging platform-specific requirements.
+  - Innovatively integrated new features into the application, harnessing the full potential of React Native to meet and exceed user expectations.
+  - Played a pivotal role in troubleshooting efforts and offered comprehensive support to the web application development team, contributing to streamlined testing, development, and updates for enhanced feature implementation.
+  - Leveraged AI-driven tools and methodologies to optimize the development process, ensuring efficiency and precision in project execution.
+  - Demonstrated proficiency in utilizing cutting-edge technologies and tools to drive continuous improvement and innovation within the development lifecycle.
   
 - **Mobile App Developer** at [Kloudlearn](https://www.kloudlearn.com/) _(Jul 2021 – Aug 2022)_
-  - Successfully developed and deployed an education platform application using the Flutter framework.
-  - Managed and maintained the Flutter codebase for the Kloudlearn App, handling redesigns and updates.
-  - Collaborated with cross-functional teams to create and test new features, ensuring seamless integration and updates.
+  - Spearheaded the development and implementation of an educational platform application using the Flutter framework, collaborating closely with the product manager to ensure alignment with project goals and timelines.
+  - Oversaw all facets of the Flutter codebase for the Kloudlearn App, including architectural redesigns, regular updates to accommodate seasonal changes, and critical production-related tasks, ensuring the app's functionality and performance met industry standards.
+  - Provided mentorship and direction to a team of two interns, fostering a collaborative environment conducive to their professional development. Supported interns in setting and achieving personal and project-related objectives, contributing to their growth within the organization.
 
 - **Front-End Developer Intern** at [Kloudlearn](https://www.kloudlearn.com/) _(Nov 2020 - Jun 2021)_
   - Engaged in Flutter and React development, focusing on Material UI.
