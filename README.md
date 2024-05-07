@@ -12,10 +12,6 @@ I'm a highly motivated Mobile Developer with over 2 years of experience in React
   - Implemented cloud hosting solutions like Amazon EC2 for scalability and reliability, facilitating smooth and uninterrupted service delivery.
  
 - **Associate Developer** at [Kognics](https://www.kognics.com/) _(Sep 2022 – Apr 2023)_
-  - Collaborated closely with the design team to optimize usability and create user-friendly interfaces.
-  - Developed the Kognics app using React Native for Android and iOS platforms, ensuring a successful launch on Play Store and App Store.
-  - Integrated new features into the app, enhancing functionality based on user requirements.
-  - Led troubleshooting efforts and provided support to the web-app development team.
   - Orchestrated the development of the Kognics mobile application utilizing React Native, resulting in a seamless user experience across Android and iOS platforms.
   - Facilitated a successful launch of the app on both the Play Store and App Store, employing strategic methodologies and leveraging platform-specific requirements.
   - Innovatively integrated new features into the application, harnessing the full potential of React Native to meet and exceed user expectations.
