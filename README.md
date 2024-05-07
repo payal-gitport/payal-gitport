@@ -1,6 +1,6 @@
 # Hi there, I'm [Payal Meena](https://www.linkedin.com/in/payal-meena-53b164132/) 👋
 
-I'm a highly motivated Mobile Developer with over 2 years of experience in React Native and Flutter. I'm passionate about developing innovative and scalable mobile applications that exceed customer expectations. I'm committed to continuous learning and growth in a dynamic work environment.
+Highly motivated Mobile Developer with 3 years of experience in React Native and Flutter. Seeking a challenging role to develop innovative mobile applications and leverage expertise in REST APIs. Passionate about collaborating with like-minded individuals to exceed customer expectations. Committed to continuous learning and growth in a dynamic work environment.
 
 🔭 **Work Experience:**
 - **Associate Developer** at [Dizayn.io](https://www.dizayn.io/) _(Sep 2023 – Mar 2024)_
